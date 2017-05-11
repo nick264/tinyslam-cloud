@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "forever-monitor": "^1.7.1",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.1",
+    "socket.io-client": "^2.0.1"
+  }
+}
